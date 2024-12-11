@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Кирилл Дроков](https://up.htmlacademy.ru/univer-html1/2/user/2579817).
-* Наставник: Алексей Владимирович Самохвалов (https://htmlacademy.ru/profile/id1443429)
+* Наставник: [Алексей Владимирович Самохвалов](https://htmlacademy.ru/profile/id1443429)
 
 ---
 
